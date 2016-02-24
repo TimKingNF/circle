@@ -1,0 +1,16 @@
+2016-02-24 09:17:20 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:89) - Got Database manager listener for the divider. (local address: 127.0.0.1:8086) (database manager)
+
+
+2016-02-24 09:17:32 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:62973) (database manager)
+
+
+2016-02-24 09:53:49 [WARN] circle/divider/database.(*myDatabaseManager).handleConn : (socketParse.go:31) - Read Error: read tcp 127.0.0.1:8086->127.0.0.1:62973: wsarecv: An existing connection was forcibly closed by the remote host. (database manager)
+
+2016-02-24 13:16:44 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:89) - Got Database manager listener for the divider. (local address: 127.0.0.1:8086) (database manager)
+
+
+2016-02-24 13:17:05 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:56950) (database manager)
+
+
+2016-02-24 16:55:01 [WARN] circle/divider/database.(*myDatabaseManager).handleConn : (socketParse.go:31) - Read Error: read tcp 127.0.0.1:8086->127.0.0.1:56950: wsarecv: An existing connection was forcibly closed by the remote host. (database manager)
+

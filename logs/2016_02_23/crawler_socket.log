@@ -1,0 +1,24 @@
+2016-02-23 17:08:58 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:52947]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-23 17:08:58 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_0-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-23 17:21:28 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:53406]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-23 17:21:28 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_0-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-23 17:22:58 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:53489]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-23 17:22:58 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_0-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-23 19:52:22 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57058]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-23 19:52:22 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_0-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+

@@ -92,7 +92,6 @@ func parseSavePageJson(doc string) *base.SavePageItem {
 			Tag:       parseSavePageItem.Tag,
 			Html:      parseSavePageItem.Html,
 			ParentUrl: parseSavePageItem.ParentUrl,
-			Index:     parseSavePageItem.Index,
 		}
 		return &base.SavePageItem{
 			Item:        item,

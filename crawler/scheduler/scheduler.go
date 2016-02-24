@@ -480,85 +480,95 @@ func (sched *myScheduler) sendResp(resp base.Response, code string) bool {
 }
 
 func (sched *myScheduler) saveReqToCache(req base.Request, code string) {
-	httpReq := req.HttpReq()
-	// fmt.Println(httpReq.URL.String())
-	if httpReq == nil {
-		sched.logger.Warnln("Ignore the request! It's HTTP request is invalid!")
-		return
-	}
-	reqUrl := httpReq.URL
-	if reqUrl == nil {
-		sched.logger.Warnln("Ignore the request! It's HTTP request is invalid!")
-		return
-	}
-	if strings.ToLower(reqUrl.Scheme) != "http" {
-		sched.logger.Warnf("Ignore the request! It's url scheme '%s', but should be 'http'!\n",
-			reqUrl.Scheme)
-		return
-	}
-	downloadRet := sched.urlCache.Downloading(reqUrl.String())
-	if downloadRet == uc.URLCACHE_QUERY_TIMEOUT {
-		sched.logger.Warnf("Ignore the request! Download Query is timeout. (requestUrl=%s)\n", reqUrl)
-		return
-	}
-	if downloadRet == uc.URLCACHE_QUERY_FALSE {
-		// sched.logger.Warnf("Ignore the request! It's url is repeated. (requestUrl=%s)\n", reqUrl)
-		return
-	}
-	if !sched.spiderArgs.CrossDomain() {
-		if pd, _ := getPrimaryDomain(httpReq.URL.String()); pd != req.PrimaryDomain() {
-			sched.logger.Warnf("Ignore the request! It's host '%s' not in primary domain '%s'."+
-				"(requestUrl=%s)\n", httpReq.URL.String(), req.PrimaryDomain(), reqUrl)
+	go func() {
+		httpReq := req.HttpReq()
+		if httpReq == nil {
+			sched.logger.Warnln("Ignore the request! It's HTTP request is invalid!")
 			return
 		}
-	}
-	if req.Depth() > sched.spiderArgs.CrawlDepth() {
-		sched.logger.Warnf("Ignore the request! It's depth %d greater than %d. (requestUrl=%s)\n",
-			req.Depth(), sched.spiderArgs.CrawlDepth(), reqUrl)
+		reqUrl := httpReq.URL
+		if reqUrl == nil {
+			sched.logger.Warnln("Ignore the request! It's HTTP request is invalid!")
+			return
+		}
+		if req.Depth() > sched.spiderArgs.CrawlDepth() {
+			sched.logger.Warnf("Ignore the request! It's depth %d greater than %d. (requestUrl=%s)\n",
+				req.Depth(), sched.spiderArgs.CrawlDepth(), reqUrl)
+			return
+		}
+		if strings.ToLower(reqUrl.Scheme) != "http" && strings.ToLower(reqUrl.Scheme) != "https" {
+			sched.logger.Warnf("Ignore the request! It's url scheme '%s', but should be 'http' or 'https'!\n",
+				reqUrl.Scheme)
+			return
+		}
+		if _, ok := sched.urlMap[reqUrl.String()]; ok {
+			sched.logger.Warnf("Ignore the request! It's url is repeated. (requestUrl=%s)\n", reqUrl)
+			return
+		}
+		if !sched.spiderArgs.CrossDomain() {
+			if pd, _ := getPrimaryDomain(httpReq.URL.String()); pd != req.PrimaryDomain() {
+				sched.logger.Warnf("Ignore the request! It's host '%s' not in primary domain '%s'."+
+					"(requestUrl=%s)\n", httpReq.URL.String(), req.PrimaryDomain(), reqUrl)
+				return
+			}
+		}
+		downloadRet := sched.urlCache.Downloading(reqUrl.String())
+		if downloadRet == uc.URLCACHE_QUERY_TIMEOUT {
+			sched.logger.Warnf("Ignore the request! Download Query is timeout. (requestUrl=%s)\n", reqUrl)
+			return
+		}
+		if downloadRet == uc.URLCACHE_QUERY_FALSE {
+			sched.logger.Warnf("Ignore the request From IndexDevice! It's url is repeated. (requestUrl=%s)\n", reqUrl)
+			return
+		}
+		if downloadRet == uc.URLCACHE_QUERY_NOFIND {
+			return
+		}
+		if sched.stopSign.Signed() {
+			sched.stopSign.Deal(code)
+			return
+		}
+		ok := sched.reqCache.Put(&req)
+		if !ok {
+			return
+		}
+		sched.urlMap[reqUrl.String()] = true
 		return
-	}
-	if sched.stopSign.Signed() {
-		sched.stopSign.Deal(code)
-		return
-	}
-	ok := sched.reqCache.Put(&req)
-	if !ok {
-		return
-	}
-	sched.urlMap[reqUrl.String()] = true
-	return
+	}()
 }
 
 func (sched *myScheduler) updateReqToCache(req base.Request, code string) {
-	httpReq := req.HttpReq()
-	if httpReq == nil {
-		sched.logger.Warnln("Ignore the update request! It's HTTP request is invalid!")
+	go func() {
+		httpReq := req.HttpReq()
+		if httpReq == nil {
+			sched.logger.Warnln("Ignore the update request! It's HTTP request is invalid!")
+			return
+		}
+		reqUrl := httpReq.URL
+		if reqUrl == nil {
+			sched.logger.Warnln("Ignore the update request! It's HTTP request is invalid!")
+			return
+		}
+		if strings.ToLower(reqUrl.Scheme) != "http" {
+			sched.logger.Warnf("Ignore the update request! It's url scheme '%s', but should be 'http'!\n",
+				reqUrl.Scheme)
+			return
+		}
+		if req.MaxDepth() != 0 && req.Depth() == req.MaxDepth() {
+			sched.logger.Warnf("Ignore the update request! It's depth %d greater than %d. (requestUrl=%s)\n",
+				req.Depth(), req.MaxDepth(), reqUrl)
+			return
+		}
+		if sched.stopSign.Signed() {
+			sched.stopSign.Deal(code)
+			return
+		}
+		ok := sched.reqCache.Put(&req)
+		if !ok {
+			return
+		}
 		return
-	}
-	reqUrl := httpReq.URL
-	if reqUrl == nil {
-		sched.logger.Warnln("Ignore the update request! It's HTTP request is invalid!")
-		return
-	}
-	if strings.ToLower(reqUrl.Scheme) != "http" {
-		sched.logger.Warnf("Ignore the update request! It's url scheme '%s', but should be 'http'!\n",
-			reqUrl.Scheme)
-		return
-	}
-	if req.MaxDepth() != 0 && req.Depth() == req.MaxDepth() {
-		sched.logger.Warnf("Ignore the update request! It's depth %d greater than %d. (requestUrl=%s)\n",
-			req.Depth(), req.MaxDepth(), reqUrl)
-		return
-	}
-	if sched.stopSign.Signed() {
-		sched.stopSign.Deal(code)
-		return
-	}
-	ok := sched.reqCache.Put(&req)
-	if !ok {
-		return
-	}
-	return
+	}()
 }
 
 func (sched *myScheduler) sendItem(item base.Item, code string) bool {

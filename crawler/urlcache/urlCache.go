@@ -14,6 +14,7 @@ const (
 	URLCACHE_QUERY_FALSE   UrlCacheQueryResult = 0
 	URLCACHE_QUERY_TRUE    UrlCacheQueryResult = 1
 	URLCACHE_QUERY_TIMEOUT UrlCacheQueryResult = 2
+	URLCACHE_QUERY_NOFIND  UrlCacheQueryResult = 3
 )
 
 type UrlCache interface {
@@ -40,8 +41,11 @@ type myUrlCache struct {
 
 	sendDataChan chan *cmn.ControlMessage
 
+	resultMapLen uint8
+
 	stopSign StopSign
-	mutex    sync.Mutex
+
+	mutex sync.Mutex
 }
 
 const (
@@ -56,51 +60,55 @@ func GenUrlCache() UrlCache {
 		sendDataChan: make(chan *cmn.ControlMessage),
 		resultMap:    make(map[string]uint8),
 		stopSign:     stopSign,
+		resultMapLen: 0,
 	}
-}
-
-func (uc *myUrlCache) sendUrlMapToDivider() {
-	go func() {
-		uc.mutex.Lock()
-		defer uc.mutex.Unlock()
-
-		urlMapJson, _ := json.Marshal(uc.urlMap)
-
-		var controlMess = &cmn.ControlMessage{
-			Function: cmn.CRAWLER_QUERYINDEX,
-			Doc:      string(urlMapJson),
-			Sender:   cmn.DEVICE_CRAWLER,
-			Accepter: cmn.DEVICE_INDEXDEVICE,
-		}
-
-		//	reset stop sign
-		uc.stopSign.Reset()
-
-		uc.sendDataChan <- controlMess
-	}()
 }
 
 func (uc *myUrlCache) Run() {
 	go func() {
 		for {
-			if len(uc.urlMap) > 0 && !uc.stopSign.Signed() {
-				uc.sendUrlMapToDivider()
+			if uc.stopSign.Signed() {
+				if uc.resultMapLen == 0 {
+					uc.stopSign.Reset()
+				}
+			} else {
+				if len(uc.urlMap) > 0 {
+					urlMapJson, _ := json.Marshal(uc.urlMap)
+
+					var controlMess = &cmn.ControlMessage{
+						Function: cmn.CRAWLER_QUERYINDEX,
+						Doc:      string(urlMapJson),
+						Sender:   cmn.DEVICE_CRAWLER,
+						Accepter: cmn.DEVICE_INDEXDEVICE,
+					}
+
+					//	reset stop sign
+					uc.stopSign.Reset()
+
+					uc.sendDataChan <- controlMess
+
+					//	this time must be lt scheduler idle time
+					time.Sleep(10 * time.Second)
+					continue
+				}
 			}
-			//	this time must be lt scheduler idle time
-			time.Sleep(10 * time.Second)
+			time.Sleep(10 * time.Millisecond)
 		}
 	}()
 }
 
 func (uc *myUrlCache) Downloading(url string) UrlCacheQueryResult {
 	urlMd5 := uc.addUrl(url)
-
+	if len(urlMd5) == 0 {
+		return URLCACHE_QUERY_NOFIND
+	}
 	var runTime = time.Now()
 	for {
 		if uc.stopSign.Signed() {
 			if b, ok := uc.resultMap[urlMd5]; !ok {
 				return URLCACHE_QUERY_FALSE
 			} else {
+				uc.resultMapLen--
 				if b == 1 {
 					return URLCACHE_QUERY_TRUE
 				}
@@ -110,7 +118,6 @@ func (uc *myUrlCache) Downloading(url string) UrlCacheQueryResult {
 		if time.Now().Sub(runTime) > 5*time.Minute {
 			return URLCACHE_QUERY_TIMEOUT
 		}
-		time.Sleep(10 * time.Millisecond)
 	}
 	return URLCACHE_QUERY_FALSE
 }
@@ -120,12 +127,21 @@ func (uc *myUrlCache) SendDataChan() <-chan *cmn.ControlMessage {
 }
 
 func (uc *myUrlCache) addUrl(url string) string {
-	uc.mutex.Lock()
-	defer uc.mutex.Unlock()
+	for {
+		if !uc.stopSign.Signed() {
+			uc.mutex.Lock()
+			defer uc.mutex.Unlock()
 
-	urlMd5 := cmn.Str2Md5(url)
-	uc.urlMap[urlMd5] = url
-	return urlMd5
+			urlMd5 := cmn.Str2Md5(url)
+			if _, ok := uc.urlMap[urlMd5]; !ok {
+				uc.urlMap[urlMd5] = url
+				return urlMd5
+			} else {
+				return ""
+			}
+		}
+		time.Sleep(10 * time.Millisecond)
+	}
 }
 
 func (uc *myUrlCache) ParseQueryResult(doc string) {
@@ -133,6 +149,7 @@ func (uc *myUrlCache) ParseQueryResult(doc string) {
 		var dat myQueryResult
 		if err := json.Unmarshal([]byte(doc), &dat); err == nil {
 			uc.resultMap = dat
+			uc.resultMapLen = uint8(len(dat))
 			uc.urlMap = make(map[string]string)
 			uc.stopSign.Sign()
 		}

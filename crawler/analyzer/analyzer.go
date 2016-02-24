@@ -71,6 +71,7 @@ func (analyzer *myAnalyzer) Analyze(
 	//	parse http response
 	dataList := make([]base.Data, 0)
 	errorList := make([]error, 0)
+
 	for i, respParser := range respParsers {
 		if respParser == nil {
 			err := errors.New(fmt.Sprintf("The document parser [%d] is invalid!\n", i))
@@ -78,6 +79,7 @@ func (analyzer *myAnalyzer) Analyze(
 			continue
 		}
 		pDataList, pErrorList := respParser(resp)
+
 		if pDataList != nil {
 			for _, pData := range pDataList {
 				dataList = appendDataList(dataList, pData, resp.Depth())

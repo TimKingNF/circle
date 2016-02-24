@@ -1,0 +1,621 @@
+2016-02-24 09:17:20 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:88) - Got IndexDevice manager listener for the divider. (local address: 127.0.0.1:8087) (indexDevice manager)
+
+
+2016-02-24 09:17:56 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:62982) (indexDevice manager)
+
+
+2016-02-24 09:18:14 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:62982]: CIRCLE|@#$%^|indexDevice-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 09:21:36 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:62982: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 09:21:39 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:63010) (indexDevice manager)
+
+
+2016-02-24 09:21:54 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:63010]: CIRCLE|@#$%^|indexDevice-crawler_1|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 09:23:18 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:63010: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 09:23:52 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:63044) (indexDevice manager)
+
+
+2016-02-24 09:24:07 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:63044]: CIRCLE|@#$%^|indexDevice-crawler_3|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 09:25:00 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:63044: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 09:27:37 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:63072) (indexDevice manager)
+
+
+2016-02-24 09:28:00 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:63072]: CIRCLE|@#$%^|indexDevice-crawler_4|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 09:53:48 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:63072: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 13:16:44 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:88) - Got IndexDevice manager listener for the divider. (local address: 127.0.0.1:8087) (indexDevice manager)
+
+
+2016-02-24 13:17:17 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:56958) (indexDevice manager)
+
+
+2016-02-24 13:17:38 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:56958]: CIRCLE|@#$%^|indexDevice-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 13:18:21 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:56958: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 13:18:26 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:56977) (indexDevice manager)
+
+
+2016-02-24 13:37:51 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:56977]: CIRCLE|@#$%^|indexDevice-crawler_1|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 13:42:26 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:56977: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 13:42:29 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57489) (indexDevice manager)
+
+
+2016-02-24 13:42:43 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57489]: CIRCLE|@#$%^|indexDevice-crawler_2|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 13:43:38 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57489: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 13:43:45 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57513) (indexDevice manager)
+
+
+2016-02-24 13:44:03 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57513]: CIRCLE|@#$%^|indexDevice-crawler_3|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 13:45:22 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57513: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 13:45:25 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57534) (indexDevice manager)
+
+
+2016-02-24 13:46:00 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57534]: CIRCLE|@#$%^|indexDevice-crawler_4|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 13:48:42 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57534: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 13:48:46 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57562) (indexDevice manager)
+
+
+2016-02-24 13:53:05 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57562]: CIRCLE|@#$%^|indexDevice-crawler_5|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:05:07 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57562: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:05:12 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57655) (indexDevice manager)
+
+
+2016-02-24 14:05:26 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57655]: CIRCLE|@#$%^|indexDevice-crawler_6|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:07:25 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57655: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:07:29 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57683) (indexDevice manager)
+
+
+2016-02-24 14:07:43 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57683]: CIRCLE|@#$%^|indexDevice-crawler_7|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:09:32 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57683: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:09:36 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57705) (indexDevice manager)
+
+
+2016-02-24 14:09:49 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57705]: CIRCLE|@#$%^|indexDevice-crawler_8|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:10:17 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57705: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:20:14 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57960) (indexDevice manager)
+
+
+2016-02-24 14:22:07 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57960: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:22:09 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:57996) (indexDevice manager)
+
+
+2016-02-24 14:22:09 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:57996]: CIRCLE|@#$%^|indexDevice-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:22:33 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:57996: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:22:36 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58017) (indexDevice manager)
+
+
+2016-02-24 14:22:52 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58017]: CIRCLE|@#$%^|indexDevice-crawler_10|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:25:08 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58017: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:25:12 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58048) (indexDevice manager)
+
+
+2016-02-24 14:25:35 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58048]: CIRCLE|@#$%^|indexDevice-crawler_11|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:26:00 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58048: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:28:03 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58088) (indexDevice manager)
+
+
+2016-02-24 14:28:41 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58088]: CIRCLE|@#$%^|indexDevice-crawler_12|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:29:44 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58088: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:29:50 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58111) (indexDevice manager)
+
+
+2016-02-24 14:30:04 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58111]: CIRCLE|@#$%^|indexDevice-crawler_13|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:31:23 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58111: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:33:06 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58142) (indexDevice manager)
+
+
+2016-02-24 14:33:20 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58142]: CIRCLE|@#$%^|indexDevice-crawler_14|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:34:36 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58142: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:34:39 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58173) (indexDevice manager)
+
+
+2016-02-24 14:34:53 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58173]: CIRCLE|@#$%^|indexDevice-crawler_15|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:35:55 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58173: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:35:59 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58193) (indexDevice manager)
+
+
+2016-02-24 14:36:19 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58193]: CIRCLE|@#$%^|indexDevice-crawler_16|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:39:15 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58193: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:46:04 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58254) (indexDevice manager)
+
+
+2016-02-24 14:46:30 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58254]: CIRCLE|@#$%^|indexDevice-crawler_17|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:47:15 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58254: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:48:27 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58296) (indexDevice manager)
+
+
+2016-02-24 14:48:40 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58296]: CIRCLE|@#$%^|indexDevice-crawler_18|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:50:38 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58296: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:50:41 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58321) (indexDevice manager)
+
+
+2016-02-24 14:50:56 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58321]: CIRCLE|@#$%^|indexDevice-crawler_19|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:51:33 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58321: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:51:36 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58351) (indexDevice manager)
+
+
+2016-02-24 14:51:50 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58351]: CIRCLE|@#$%^|indexDevice-crawler_20|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:52:06 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58351: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:54:45 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58389) (indexDevice manager)
+
+
+2016-02-24 14:55:00 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58389]: CIRCLE|@#$%^|indexDevice-crawler_21|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:56:34 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58389: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:56:49 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58431) (indexDevice manager)
+
+
+2016-02-24 14:57:02 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58431]: CIRCLE|@#$%^|indexDevice-crawler_22|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:57:20 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58431: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 14:57:51 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58450) (indexDevice manager)
+
+
+2016-02-24 14:58:13 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58450]: CIRCLE|@#$%^|indexDevice-crawler_23|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 14:59:11 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58450: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:02:10 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58483) (indexDevice manager)
+
+
+2016-02-24 15:03:06 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58483]: CIRCLE|@#$%^|indexDevice-crawler_24|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:03:28 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58483: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:03:53 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58513) (indexDevice manager)
+
+
+2016-02-24 15:04:07 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58513]: CIRCLE|@#$%^|indexDevice-crawler_25|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:06:45 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58513: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:06:47 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58533) (indexDevice manager)
+
+
+2016-02-24 15:07:01 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58533]: CIRCLE|@#$%^|indexDevice-crawler_26|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:07:20 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58533: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:08:57 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58562) (indexDevice manager)
+
+
+2016-02-24 15:09:11 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58562]: CIRCLE|@#$%^|indexDevice-crawler_27|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:09:43 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58562: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:10:55 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58585) (indexDevice manager)
+
+
+2016-02-24 15:11:08 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58585]: CIRCLE|@#$%^|indexDevice-crawler_28|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:14:43 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58585: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:14:47 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58616) (indexDevice manager)
+
+
+2016-02-24 15:14:50 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58616]: CIRCLE|@#$%^|indexDevice-crawler_29|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:20:28 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58616: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:20:44 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58649) (indexDevice manager)
+
+
+2016-02-24 15:21:07 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58649]: CIRCLE|@#$%^|indexDevice-crawler_30|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:21:36 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58649: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:23:50 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:58686) (indexDevice manager)
+
+
+2016-02-24 15:23:54 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:58686]: CIRCLE|@#$%^|indexDevice-crawler_31|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:24:59 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:58686: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:34:57 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59001) (indexDevice manager)
+
+
+2016-02-24 15:35:01 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59001]: CIRCLE|@#$%^|indexDevice-crawler_32|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:35:44 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59001: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:43:38 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59077) (indexDevice manager)
+
+
+2016-02-24 15:44:14 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59077]: CIRCLE|@#$%^|indexDevice-crawler_33|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:46:42 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59077: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:46:45 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59108) (indexDevice manager)
+
+
+2016-02-24 15:46:49 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59108]: CIRCLE|@#$%^|indexDevice-crawler_34|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:46:50 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59108: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:48:17 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59127) (indexDevice manager)
+
+
+2016-02-24 15:48:36 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59127]: CIRCLE|@#$%^|indexDevice-crawler_35|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:48:46 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59127]: CIRCLE|@#$%^|indexDevice-crawler_35|@#$%^|queryIndexResult|@#$%^|{"8d66f8bed0ad07ce99a5abf36595d9ca":1,"ee777944323a1bd1f8dd4d7f33fdd26e":1,"fce317508579a52d5939cc1a00599b54":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"3de03bde0c83ee874e2bba0d8c7d4931":1,"57da2ece0a464584980e1670310ae320":1,"7cc4f880bfe2e2d90b2fa426064d60d3":1,"9cde798c369b5220c96d54ba3fccc026":1,"cda91fce81908e3324814f67661858b1":1,"219bd33af9d23e45cd1667120cb47923":1,"56537f03b7534e1d244acd986c91e21d":1,"73326cd487de9b3ae09387d454111494":1,"89bff1af37ae4a6ec1f4a5b19f6b35de":1,"9e3f95bd0415352a46fe2a8b6b380fc0":1,"221d4d7825469bf6e749396188f350a7":1,"3f10bdf3ca65a4877f17be1ae6733dc7":1,"4bf390717aeb55d6bc056d69069439a6":1,"6c6d5b53fc0fd1a40f995567dfb9f64b":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"bf7299c7ce4ed21a78bf4ef4055a157f":1,"c207874f2c2532f234e5bcf3eb67ddc7":1,"daa29ddfd0c4f9c7c4b9178257574be4":1,"06e9b0115a68c975ba1078f6054f7603":1,"075fea7fb534a1ab83a362123cb00970":1,"3569dc6619bf6043f3543b43960e61bd":1} (IndexDevice manager)
+
+
+2016-02-24 15:57:02 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59127: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 15:57:06 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59336) (indexDevice manager)
+
+
+2016-02-24 15:57:46 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59336]: CIRCLE|@#$%^|indexDevice-crawler_36|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 15:57:56 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59336]: CIRCLE|@#$%^|indexDevice-crawler_36|@#$%^|queryIndexResult|@#$%^|{"4bf390717aeb55d6bc056d69069439a6":1,"3de03bde0c83ee874e2bba0d8c7d4931":1} (IndexDevice manager)
+
+
+2016-02-24 15:58:07 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59336]: CIRCLE|@#$%^|indexDevice-crawler_36|@#$%^|queryIndexResult|@#$%^|{"9590ed5b3735efe1cdce1f7e7582bcab":1,"ee777944323a1bd1f8dd4d7f33fdd26e":1,"fce317508579a52d5939cc1a00599b54":1,"0fe86c00457a83e6a0270c512b6c9392":1,"56537f03b7534e1d244acd986c91e21d":1,"00eb064f89e36878a8771baa79aa2d72":1,"3b7597d32ec60eac99503bfdf2965c28":1,"4bf390717aeb55d6bc056d69069439a6":1,"7cc4f880bfe2e2d90b2fa426064d60d3":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"9cde798c369b5220c96d54ba3fccc026":1,"bf7299c7ce4ed21a78bf4ef4055a157f":1,"c207874f2c2532f234e5bcf3eb67ddc7":1,"cda91fce81908e3324814f67661858b1":1,"219bd33af9d23e45cd1667120cb47923":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"3569dc6619bf6043f3543b43960e61bd":1,"57da2ece0a464584980e1670310ae320":1} (IndexDevice manager)
+
+
+2016-02-24 16:00:44 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59336: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:01:12 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59378) (indexDevice manager)
+
+
+2016-02-24 16:01:15 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59378]: CIRCLE|@#$%^|indexDevice-crawler_37|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:01:25 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59378]: CIRCLE|@#$%^|indexDevice-crawler_37|@#$%^|queryIndexResult|@#$%^|{"06e9b0115a68c975ba1078f6054f7603":1,"3de03bde0c83ee874e2bba0d8c7d4931":1,"fce317508579a52d5939cc1a00599b54":1,"c207874f2c2532f234e5bcf3eb67ddc7":1,"ee777944323a1bd1f8dd4d7f33fdd26e":1,"075fea7fb534a1ab83a362123cb00970":1,"219bd33af9d23e45cd1667120cb47923":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"97bdb2c802f890dbdc0ace3f38340a86":1} (IndexDevice manager)
+
+
+2016-02-24 16:01:34 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59378: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:03:13 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59411) (indexDevice manager)
+
+
+2016-02-24 16:03:17 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59411]: CIRCLE|@#$%^|indexDevice-crawler_38|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:03:27 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59411]: CIRCLE|@#$%^|indexDevice-crawler_38|@#$%^|queryIndexResult|@#$%^|{"221d4d7825469bf6e749396188f350a7":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"3f10bdf3ca65a4877f17be1ae6733dc7":1,"7cc4f880bfe2e2d90b2fa426064d60d3":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"219bd33af9d23e45cd1667120cb47923":1} (IndexDevice manager)
+
+
+2016-02-24 16:04:29 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59411: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:04:30 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59436) (indexDevice manager)
+
+
+2016-02-24 16:06:36 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59436]: CIRCLE|@#$%^|indexDevice-crawler_39|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:06:40 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59436: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:07:45 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59461) (indexDevice manager)
+
+
+2016-02-24 16:07:50 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59461]: CIRCLE|@#$%^|indexDevice-crawler_40|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:07:56 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59461: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:08:56 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59480) (indexDevice manager)
+
+
+2016-02-24 16:08:59 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59480]: CIRCLE|@#$%^|indexDevice-crawler_41|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:09:07 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59480: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:12:07 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59521) (indexDevice manager)
+
+
+2016-02-24 16:12:42 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59521]: CIRCLE|@#$%^|indexDevice-crawler_42|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:12:52 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59521]: CIRCLE|@#$%^|indexDevice-crawler_42|@#$%^|queryIndexResult|@#$%^|{"73326cd487de9b3ae09387d454111494":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"fce317508579a52d5939cc1a00599b54":1} (IndexDevice manager)
+
+
+2016-02-24 16:15:21 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59521: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:15:24 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59553) (indexDevice manager)
+
+
+2016-02-24 16:15:28 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59553]: CIRCLE|@#$%^|indexDevice-crawler_43|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:15:38 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59553]: CIRCLE|@#$%^|indexDevice-crawler_43|@#$%^|queryIndexResult|@#$%^|{"2e8863f6ba020c70c0a1f2638d08796b":1,"3f10bdf3ca65a4877f17be1ae6733dc7":1,"57da2ece0a464584980e1670310ae320":1,"6c6d5b53fc0fd1a40f995567dfb9f64b":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"9e3f95bd0415352a46fe2a8b6b380fc0":1,"075fea7fb534a1ab83a362123cb00970":1,"219bd33af9d23e45cd1667120cb47923":1} (IndexDevice manager)
+
+
+2016-02-24 16:17:51 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59553: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:18:00 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59579) (indexDevice manager)
+
+
+2016-02-24 16:18:03 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59579]: CIRCLE|@#$%^|indexDevice-crawler_44|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:18:30 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59579: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:21:40 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59627) (indexDevice manager)
+
+
+2016-02-24 16:21:43 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59627]: CIRCLE|@#$%^|indexDevice-crawler_45|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:22:03 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59627: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:22:57 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59654) (indexDevice manager)
+
+
+2016-02-24 16:23:00 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59654]: CIRCLE|@#$%^|indexDevice-crawler_46|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:23:06 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59654: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:25:20 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:59686) (indexDevice manager)
+
+
+2016-02-24 16:25:38 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:59686]: CIRCLE|@#$%^|indexDevice-crawler_47|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:25:43 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:59686: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:31:29 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60118) (indexDevice manager)
+
+
+2016-02-24 16:31:33 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60118]: CIRCLE|@#$%^|indexDevice-crawler_48|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:31:50 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60118: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:38:58 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60179) (indexDevice manager)
+
+
+2016-02-24 16:39:02 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60179: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:41:23 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60200) (indexDevice manager)
+
+
+2016-02-24 16:52:05 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60200]: CIRCLE|@#$%^|indexDevice-crawler_49|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (IndexDevice manager)
+
+
+2016-02-24 16:52:46 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60200: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:57:02 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60348) (indexDevice manager)
+
+
+2016-02-24 16:57:06 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60348]: CIRCLE|@#$%^|indexDevice-crawler_50|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (IndexDevice manager)
+
+
+2016-02-24 16:57:17 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60348: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:57:28 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60366) (indexDevice manager)
+
+
+2016-02-24 16:57:34 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60366]: CIRCLE|@#$%^|indexDevice-crawler_51|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (IndexDevice manager)
+
+
+2016-02-24 16:57:44 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60366]: CIRCLE|@#$%^|indexDevice-crawler_51|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (IndexDevice manager)
+
+
+2016-02-24 16:57:54 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60366: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 16:58:32 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60386) (indexDevice manager)
+
+
+2016-02-24 16:58:36 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60386]: CIRCLE|@#$%^|indexDevice-crawler_52|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (IndexDevice manager)
+
+
+2016-02-24 16:59:07 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60386: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 17:01:22 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60433) (indexDevice manager)
+
+
+2016-02-24 17:01:26 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60433]: CIRCLE|@#$%^|indexDevice-crawler_53|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (IndexDevice manager)
+
+
+2016-02-24 17:01:36 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60433]: CIRCLE|@#$%^|indexDevice-crawler_53|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (IndexDevice manager)
+
+
+2016-02-24 17:02:15 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60433: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 17:03:30 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60464) (indexDevice manager)
+
+
+2016-02-24 17:03:33 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60464]: CIRCLE|@#$%^|indexDevice-crawler_54|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (IndexDevice manager)
+
+
+2016-02-24 17:03:43 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60464]: CIRCLE|@#$%^|indexDevice-crawler_54|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (IndexDevice manager)
+
+
+2016-02-24 17:04:19 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60464: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+
+2016-02-24 17:04:49 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).Listening.func1 : (manager.go:97) - Established a connection with a client application. (remote address: 127.0.0.1:60483) (indexDevice manager)
+
+
+2016-02-24 17:04:58 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60483]: CIRCLE|@#$%^|indexDevice-crawler_55|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (IndexDevice manager)
+
+
+2016-02-24 17:05:08 [INFO] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:40) - Received request[127.0.0.1:60483]: CIRCLE|@#$%^|indexDevice-crawler_55|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (IndexDevice manager)
+
+
+2016-02-24 17:05:42 [WARN] circle/divider/indexdevice.(*myIndexDeviceManager).handleConn : (socketParse.go:29) - Read Error: read tcp 127.0.0.1:8087->127.0.0.1:60483: wsarecv: An existing connection was forcibly closed by the remote host. (IndexDevice manager)
+
+

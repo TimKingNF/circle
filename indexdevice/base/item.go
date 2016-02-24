@@ -8,7 +8,6 @@ type Item struct {
 	Tag       string `json:"tag"`
 	Html      string `json:"html"`
 	ParentUrl string `json:"parent_url"`
-	Index     int    `json:"index"`
 }
 
 type SavePageItem struct {

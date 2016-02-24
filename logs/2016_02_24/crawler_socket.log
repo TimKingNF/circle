@@ -1,0 +1,492 @@
+2016-02-24 09:18:14 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:62991]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 09:18:14 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_0-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 09:21:54 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:63018]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 09:21:54 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_1-crawler_1|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 09:23:33 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:63037]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 09:23:43 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:63037]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 09:24:07 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:63052]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 09:24:07 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_2-crawler_3|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 09:28:00 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:63083]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 09:28:00 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_3-crawler_4|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 13:17:38 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:56968]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 13:17:38 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_0-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 13:37:51 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57463]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 13:37:51 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_1-crawler_1|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 13:42:43 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57497]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 13:42:43 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_2-crawler_2|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 13:44:03 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57521]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 13:44:03 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_3-crawler_3|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 13:46:00 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57543]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 13:46:00 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_4-crawler_4|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 13:53:05 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57595]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 13:53:05 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_5-crawler_5|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:05:26 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57663]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:05:26 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_6-crawler_6|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:07:43 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57692]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:07:43 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_7-crawler_7|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:09:49 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57713]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:09:49 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_8-crawler_8|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:57970]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:09 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:10 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_10-crawler_9|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:22:52 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58026]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:22:52 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_11-crawler_10|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:25:35 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58058]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:25:35 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_12-crawler_11|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:28:41 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58100]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:28:41 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_13-crawler_12|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:30:04 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58119]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:30:04 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_14-crawler_13|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:33:20 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58150]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:33:20 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_15-crawler_14|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:34:53 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58181]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:34:53 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_16-crawler_15|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:36:19 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58205]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:36:19 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_17-crawler_16|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:46:30 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58265]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:46:30 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_18-crawler_17|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:48:40 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58307]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:48:40 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_19-crawler_18|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:50:56 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58333]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:50:56 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_20-crawler_19|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:51:50 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58358]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:51:50 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_21-crawler_20|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:55:00 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58398]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:55:00 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_22-crawler_21|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:57:02 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58439]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:57:02 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_23-crawler_22|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 14:58:13 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58460]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 14:58:13 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_24-crawler_23|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:03:06 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58500]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:03:06 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_25-crawler_24|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:04:07 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58521]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:04:07 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_26-crawler_25|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:07:01 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58542]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:07:01 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_27-crawler_26|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:09:11 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58570]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:09:11 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_28-crawler_27|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:11:08 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58599]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:11:08 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_29-crawler_28|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:14:50 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58625]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:14:50 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_30-crawler_29|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:21:07 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58662]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:21:07 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_31-crawler_30|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:23:54 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:58694]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:23:54 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_32-crawler_31|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:35:01 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59009]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:35:01 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_33-crawler_32|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:44:14 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59088]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:44:14 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_34-crawler_33|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:46:49 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59116]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:46:49 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_35-crawler_34|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:48:36 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59143]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:48:36 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_36-crawler_35|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:48:46 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59143]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"06e9b0115a68c975ba1078f6054f7603":"http://news.d.cn/news/view-38890.html","075fea7fb534a1ab83a362123cb00970":"http://news.d.cn/news/view-38765.html","219bd33af9d23e45cd1667120cb47923":"http://news.d.cn/news/view-38671.html","221d4d7825469bf6e749396188f350a7":"http://news.d.cn/news/view-38853.html","2e8863f6ba020c70c0a1f2638d08796b":"http://www.d.cn","3569dc6619bf6043f3543b43960e61bd":"http://www.d.cn/about/contact.html","3de03bde0c83ee874e2bba0d8c7d4931":"http://news.d.cn/news/view-38848.html","3f10bdf3ca65a4877f17be1ae6733dc7":"http://www.d.cn/about/about.html","4bf390717aeb55d6bc056d69069439a6":"http://open.d.cn/index.html","56537f03b7534e1d244acd986c91e21d":"http://news.d.cn/news/view-38840.html","57da2ece0a464584980e1670310ae320":"http://www.d.cn/about/sitemap.html","6c6d5b53fc0fd1a40f995567dfb9f64b":"http://weibo.com/downjoygame","73326cd487de9b3ae09387d454111494":"http://news.d.cn/news/view-39074.html","7cc4f880bfe2e2d90b2fa426064d60d3":"http://oauth.d.cn/auth/goLogin.html","89bff1af37ae4a6ec1f4a5b19f6b35de":"http://news.d.cn/news/view-38776.html","8d66f8bed0ad07ce99a5abf36595d9ca":"http://oauth.d.cn/auth/goRegister.html","97bdb2c802f890dbdc0ace3f38340a86":"http://kf.d.cn","9cde798c369b5220c96d54ba3fccc026":"http://news.d.cn/news/view-39073.html","9e3f95bd0415352a46fe2a8b6b380fc0":"http://x.d.cn","bf7299c7ce4ed21a78bf4ef4055a157f":"http://news.d.cn/news/view-38867.html","c207874f2c2532f234e5bcf3eb67ddc7":"http://news.d.cn/news/view-38778.html","cda91fce81908e3324814f67661858b1":"http://news.d.cn/news/view-38901.html","daa29ddfd0c4f9c7c4b9178257574be4":"http://www.d.cn/en-us/","ee777944323a1bd1f8dd4d7f33fdd26e":"http://news.d.cn","fce317508579a52d5939cc1a00599b54":"http://app.d.cn"} (crawler socket)
+
+
+2016-02-24 15:48:46 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_36-crawler_35|@#$%^|queryIndexResult|@#$%^|{"8d66f8bed0ad07ce99a5abf36595d9ca":1,"ee777944323a1bd1f8dd4d7f33fdd26e":1,"fce317508579a52d5939cc1a00599b54":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"3de03bde0c83ee874e2bba0d8c7d4931":1,"57da2ece0a464584980e1670310ae320":1,"7cc4f880bfe2e2d90b2fa426064d60d3":1,"9cde798c369b5220c96d54ba3fccc026":1,"cda91fce81908e3324814f67661858b1":1,"219bd33af9d23e45cd1667120cb47923":1,"56537f03b7534e1d244acd986c91e21d":1,"73326cd487de9b3ae09387d454111494":1,"89bff1af37ae4a6ec1f4a5b19f6b35de":1,"9e3f95bd0415352a46fe2a8b6b380fc0":1,"221d4d7825469bf6e749396188f350a7":1,"3f10bdf3ca65a4877f17be1ae6733dc7":1,"4bf390717aeb55d6bc056d69069439a6":1,"6c6d5b53fc0fd1a40f995567dfb9f64b":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"bf7299c7ce4ed21a78bf4ef4055a157f":1,"c207874f2c2532f234e5bcf3eb67ddc7":1,"daa29ddfd0c4f9c7c4b9178257574be4":1,"06e9b0115a68c975ba1078f6054f7603":1,"075fea7fb534a1ab83a362123cb00970":1,"3569dc6619bf6043f3543b43960e61bd":1} (crawler socket)
+
+
+2016-02-24 15:57:46 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59352]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 15:57:46 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_37-crawler_36|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 15:57:56 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59352]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"3de03bde0c83ee874e2bba0d8c7d4931":"http://news.d.cn/news/view-38848.html","4bf390717aeb55d6bc056d69069439a6":"http://open.d.cn/index.html"} (crawler socket)
+
+
+2016-02-24 15:57:57 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_37-crawler_36|@#$%^|queryIndexResult|@#$%^|{"4bf390717aeb55d6bc056d69069439a6":1,"3de03bde0c83ee874e2bba0d8c7d4931":1} (crawler socket)
+
+
+2016-02-24 15:58:06 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59352]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"00eb064f89e36878a8771baa79aa2d72":"http://android.d.cn/game/50969.html","0fe86c00457a83e6a0270c512b6c9392":"http://news.d.cn/news/view-39068.html","219bd33af9d23e45cd1667120cb47923":"http://news.d.cn/news/view-38671.html","2e8863f6ba020c70c0a1f2638d08796b":"http://www.d.cn","3569dc6619bf6043f3543b43960e61bd":"http://www.d.cn/about/contact.html","3b7597d32ec60eac99503bfdf2965c28":"http://ios.d.cn/apps/-523481.html","4bf390717aeb55d6bc056d69069439a6":"http://open.d.cn/index.html","56537f03b7534e1d244acd986c91e21d":"http://news.d.cn/news/view-38840.html","57da2ece0a464584980e1670310ae320":"http://www.d.cn/about/sitemap.html","7cc4f880bfe2e2d90b2fa426064d60d3":"http://oauth.d.cn/auth/goLogin.html","9590ed5b3735efe1cdce1f7e7582bcab":"http://news.d.cn/news/view-39075.html","97bdb2c802f890dbdc0ace3f38340a86":"http://kf.d.cn","9cde798c369b5220c96d54ba3fccc026":"http://news.d.cn/news/view-39073.html","bf7299c7ce4ed21a78bf4ef4055a157f":"http://news.d.cn/news/view-38867.html","c207874f2c2532f234e5bcf3eb67ddc7":"http://news.d.cn/news/view-38778.html","cda91fce81908e3324814f67661858b1":"http://news.d.cn/news/view-38901.html","ee777944323a1bd1f8dd4d7f33fdd26e":"http://news.d.cn","fce317508579a52d5939cc1a00599b54":"http://app.d.cn"} (crawler socket)
+
+
+2016-02-24 15:58:07 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_37-crawler_36|@#$%^|queryIndexResult|@#$%^|{"9590ed5b3735efe1cdce1f7e7582bcab":1,"ee777944323a1bd1f8dd4d7f33fdd26e":1,"fce317508579a52d5939cc1a00599b54":1,"0fe86c00457a83e6a0270c512b6c9392":1,"56537f03b7534e1d244acd986c91e21d":1,"00eb064f89e36878a8771baa79aa2d72":1,"3b7597d32ec60eac99503bfdf2965c28":1,"4bf390717aeb55d6bc056d69069439a6":1,"7cc4f880bfe2e2d90b2fa426064d60d3":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"9cde798c369b5220c96d54ba3fccc026":1,"bf7299c7ce4ed21a78bf4ef4055a157f":1,"c207874f2c2532f234e5bcf3eb67ddc7":1,"cda91fce81908e3324814f67661858b1":1,"219bd33af9d23e45cd1667120cb47923":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"3569dc6619bf6043f3543b43960e61bd":1,"57da2ece0a464584980e1670310ae320":1} (crawler socket)
+
+
+2016-02-24 16:01:15 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59386]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:01:15 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_38-crawler_37|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:01:25 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59386]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"06e9b0115a68c975ba1078f6054f7603":"http://news.d.cn/news/view-38890.html","075fea7fb534a1ab83a362123cb00970":"http://news.d.cn/news/view-38765.html","219bd33af9d23e45cd1667120cb47923":"http://news.d.cn/news/view-38671.html","2e8863f6ba020c70c0a1f2638d08796b":"http://www.d.cn","3de03bde0c83ee874e2bba0d8c7d4931":"http://news.d.cn/news/view-38848.html","97bdb2c802f890dbdc0ace3f38340a86":"http://kf.d.cn","c207874f2c2532f234e5bcf3eb67ddc7":"http://news.d.cn/news/view-38778.html","ee777944323a1bd1f8dd4d7f33fdd26e":"http://news.d.cn","fce317508579a52d5939cc1a00599b54":"http://app.d.cn"} (crawler socket)
+
+
+2016-02-24 16:01:26 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_38-crawler_37|@#$%^|queryIndexResult|@#$%^|{"06e9b0115a68c975ba1078f6054f7603":1,"3de03bde0c83ee874e2bba0d8c7d4931":1,"fce317508579a52d5939cc1a00599b54":1,"c207874f2c2532f234e5bcf3eb67ddc7":1,"ee777944323a1bd1f8dd4d7f33fdd26e":1,"075fea7fb534a1ab83a362123cb00970":1,"219bd33af9d23e45cd1667120cb47923":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"97bdb2c802f890dbdc0ace3f38340a86":1} (crawler socket)
+
+
+2016-02-24 16:03:17 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59420]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:03:17 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_39-crawler_38|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:03:27 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59420]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"219bd33af9d23e45cd1667120cb47923":"http://news.d.cn/news/view-38671.html","221d4d7825469bf6e749396188f350a7":"http://news.d.cn/news/view-38853.html","2e8863f6ba020c70c0a1f2638d08796b":"http://www.d.cn","3f10bdf3ca65a4877f17be1ae6733dc7":"http://www.d.cn/about/about.html","7cc4f880bfe2e2d90b2fa426064d60d3":"http://oauth.d.cn/auth/goLogin.html","97bdb2c802f890dbdc0ace3f38340a86":"http://kf.d.cn"} (crawler socket)
+
+
+2016-02-24 16:03:28 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_39-crawler_38|@#$%^|queryIndexResult|@#$%^|{"221d4d7825469bf6e749396188f350a7":1,"2e8863f6ba020c70c0a1f2638d08796b":1,"3f10bdf3ca65a4877f17be1ae6733dc7":1,"7cc4f880bfe2e2d90b2fa426064d60d3":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"219bd33af9d23e45cd1667120cb47923":1} (crawler socket)
+
+
+2016-02-24 16:06:36 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59449]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:06:36 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_40-crawler_39|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:07:50 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59469]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:07:50 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_41-crawler_40|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:08:59 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59488]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:08:59 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_42-crawler_41|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:12:42 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59533]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:12:42 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_43-crawler_42|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:12:52 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59533]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"73326cd487de9b3ae09387d454111494":"http://news.d.cn/news/view-39074.html","97bdb2c802f890dbdc0ace3f38340a86":"http://kf.d.cn","fce317508579a52d5939cc1a00599b54":"http://app.d.cn"} (crawler socket)
+
+
+2016-02-24 16:12:53 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_43-crawler_42|@#$%^|queryIndexResult|@#$%^|{"73326cd487de9b3ae09387d454111494":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"fce317508579a52d5939cc1a00599b54":1} (crawler socket)
+
+
+2016-02-24 16:15:28 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59562]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:15:28 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_44-crawler_43|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:15:38 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59562]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"075fea7fb534a1ab83a362123cb00970":"http://news.d.cn/news/view-38765.html","219bd33af9d23e45cd1667120cb47923":"http://news.d.cn/news/view-38671.html","2e8863f6ba020c70c0a1f2638d08796b":"http://www.d.cn","3f10bdf3ca65a4877f17be1ae6733dc7":"http://www.d.cn/about/about.html","57da2ece0a464584980e1670310ae320":"http://www.d.cn/about/sitemap.html","6c6d5b53fc0fd1a40f995567dfb9f64b":"http://weibo.com/downjoygame","97bdb2c802f890dbdc0ace3f38340a86":"http://kf.d.cn","9e3f95bd0415352a46fe2a8b6b380fc0":"http://x.d.cn"} (crawler socket)
+
+
+2016-02-24 16:15:38 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_44-crawler_43|@#$%^|queryIndexResult|@#$%^|{"2e8863f6ba020c70c0a1f2638d08796b":1,"3f10bdf3ca65a4877f17be1ae6733dc7":1,"57da2ece0a464584980e1670310ae320":1,"6c6d5b53fc0fd1a40f995567dfb9f64b":1,"97bdb2c802f890dbdc0ace3f38340a86":1,"9e3f95bd0415352a46fe2a8b6b380fc0":1,"075fea7fb534a1ab83a362123cb00970":1,"219bd33af9d23e45cd1667120cb47923":1} (crawler socket)
+
+
+2016-02-24 16:18:03 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59587]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:18:03 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_45-crawler_44|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:21:43 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59636]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:21:43 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_46-crawler_45|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:23:00 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59663]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:23:00 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_47-crawler_46|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:25:38 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:59700]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:25:38 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_48-crawler_47|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:31:33 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60126]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:31:33 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_49-crawler_48|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:52:05 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60301]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler socket)
+
+
+2016-02-24 16:52:05 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_51-crawler_49|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (crawler socket)
+
+
+2016-02-24 16:57:06 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60357]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":"http://127.0.0.1:8080"} (crawler socket)
+
+
+2016-02-24 16:57:06 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_52-crawler_50|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (crawler socket)
+
+
+2016-02-24 16:57:34 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60374]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":"http://127.0.0.1:8080"} (crawler socket)
+
+
+2016-02-24 16:57:34 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_53-crawler_51|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (crawler socket)
+
+
+2016-02-24 16:57:44 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60374]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":"http://www.baidu.com"} (crawler socket)
+
+
+2016-02-24 16:57:44 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_53-crawler_51|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (crawler socket)
+
+
+2016-02-24 16:58:36 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60395]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":"http://127.0.0.1:8080"} (crawler socket)
+
+
+2016-02-24 16:58:36 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_54-crawler_52|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (crawler socket)
+
+
+2016-02-24 17:01:26 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60440]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":"http://127.0.0.1:8080"} (crawler socket)
+
+
+2016-02-24 17:01:26 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_55-crawler_53|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (crawler socket)
+
+
+2016-02-24 17:01:36 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60440]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":"http://www.baidu.com"} (crawler socket)
+
+
+2016-02-24 17:01:36 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_55-crawler_53|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (crawler socket)
+
+
+2016-02-24 17:03:33 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60472]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":"http://127.0.0.1:8080"} (crawler socket)
+
+
+2016-02-24 17:03:33 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_56-crawler_54|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (crawler socket)
+
+
+2016-02-24 17:03:43 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60472]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":"http://www.baidu.com"} (crawler socket)
+
+
+2016-02-24 17:03:43 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_56-crawler_54|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (crawler socket)
+
+
+2016-02-24 17:04:58 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60490]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":"http://127.0.0.1:8080"} (crawler socket)
+
+
+2016-02-24 17:04:58 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_57-crawler_55|@#$%^|queryIndexResult|@#$%^|{"ef301f25d1b8e2bca70fafc1316f1a92":1} (crawler socket)
+
+
+2016-02-24 17:05:08 [INFO] circle/crawler/socket.(*mySocket).Send : (socket.go:187) - Send Data[127.0.0.1:60490]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":"http://www.baidu.com"} (crawler socket)
+
+
+2016-02-24 17:05:08 [INFO] circle/crawler/socket.(*mySocket).parseData.func1 : (socket.go:139) - Received request[127.0.0.1:8085]: CIRCLE|@#$%^|indexDevice_57-crawler_55|@#$%^|queryIndexResult|@#$%^|{"bfa89e563d9509fbc5c6503dd50faf2e":1} (crawler socket)
+
+

@@ -1,0 +1,1458 @@
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:08:58 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:08:59 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:517) - Ignore the request! It's depth 11 greater than 10. (requestUrl=http://news.d.cn/evaluation.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://app.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/video.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://x.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/reviews.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://weibo.com/downjoygame)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38867.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39094.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/about.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38765.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/contact.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://kf.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goRegister.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39048.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39032.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38958.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38890.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38987.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38850.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39062.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38853.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38833.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39056.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38840.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/en-us/)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38776.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38848.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-39114.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://oauth.d.cn/auth/goLogin.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/special.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38671.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39074.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38901.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://open.d.cn/index.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-39073.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/news/view-38778.html)
+
+
+2016-02-23 17:09:00 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://www.d.cn/about/sitemap.html)
+
+
+2016-02-23 17:21:28 [WARN] circle/crawler/scheduler.(*myScheduler).saveReqToCache.func1 : (scheduler.go:505) - Ignore the request! It's url is repeated. (requestUrl=http://news.d.cn/pc/view-38900.html)
+
+

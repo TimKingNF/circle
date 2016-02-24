@@ -1,0 +1,45 @@
+2016-02-23 17:08:28 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:89) - Got Crawerler manager listener for the divider. (local address: 127.0.0.1:8085) (crawler manager)
+
+
+2016-02-23 17:08:48 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:52947) (crawler manager)
+
+
+2016-02-23 17:08:58 [INFO] circle/divider/crawler.(*myCrawlerManager).handleConn : (socketParse.go:41) - Received request[127.0.0.1:52947]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler manager)
+
+
+2016-02-23 17:20:47 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:89) - Got Crawerler manager listener for the divider. (local address: 127.0.0.1:8085) (crawler manager)
+
+
+2016-02-23 17:21:18 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:53406) (crawler manager)
+
+
+2016-02-23 17:21:28 [INFO] circle/divider/crawler.(*myCrawlerManager).handleConn : (socketParse.go:41) - Received request[127.0.0.1:53406]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler manager)
+
+
+2016-02-23 17:22:12 [WARN] circle/divider/crawler.(*myCrawlerManager).handleConn : (socketParse.go:30) - Read Error: read tcp 127.0.0.1:8085->127.0.0.1:53406: wsarecv: An existing connection was forcibly closed by the remote host. (crawler manager)
+
+
+2016-02-23 17:22:34 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:89) - Got Crawerler manager listener for the divider. (local address: 127.0.0.1:8085) (crawler manager)
+
+
+2016-02-23 17:22:48 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:53489) (crawler manager)
+
+
+2016-02-23 17:22:58 [INFO] circle/divider/crawler.(*myCrawlerManager).handleConn : (socketParse.go:41) - Received request[127.0.0.1:53489]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler manager)
+
+
+2016-02-23 17:23:27 [WARN] circle/divider/crawler.(*myCrawlerManager).handleConn : (socketParse.go:30) - Read Error: read tcp 127.0.0.1:8085->127.0.0.1:53489: wsarecv: An existing connection was forcibly closed by the remote host. (crawler manager)
+
+
+2016-02-23 19:51:25 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:89) - Got Crawerler manager listener for the divider. (local address: 127.0.0.1:8085) (crawler manager)
+
+
+2016-02-23 19:52:12 [INFO] circle/divider/crawler.(*myCrawlerManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:57058) (crawler manager)
+
+
+2016-02-23 19:52:22 [INFO] circle/divider/crawler.(*myCrawlerManager).handleConn : (socketParse.go:41) - Received request[127.0.0.1:57058]: CIRCLE|@#$%^|crawler-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (crawler manager)
+
+
+2016-02-23 19:52:28 [WARN] circle/divider/crawler.(*myCrawlerManager).handleConn : (socketParse.go:30) - Read Error: read tcp 127.0.0.1:8085->127.0.0.1:57058: wsarecv: An existing connection was forcibly closed by the remote host. (crawler manager)
+
+

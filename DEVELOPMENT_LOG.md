@@ -253,7 +253,7 @@ indexDevice.pageCards
 * 修复了 indexDevice 在 loadFileCache 之后 idGenertor 的值会重新计算的问题
 
 # 待解决问题
-* crawler.requestCache.GET() 的时候越界的问题
+@ crawler.requestCache.GET() 的时候越界的问题
 
 ---------------------------------------------------------------------
 
@@ -268,5 +268,10 @@ indexDevice.pageCards
 # 待解决问题
 * 编写 工具 启动各个程序
 
-# 添加内容
+---------------------------------------------------------------------
+
+# 2016-2-24
+# 已解决问题
+* 修改 crawler.urlCache 中的相关 bug
+* 修改 parseResponse 闭包函数无效的问题
 

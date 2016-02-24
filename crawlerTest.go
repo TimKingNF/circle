@@ -15,15 +15,15 @@ var (
 
 	schePoolArgs = base.NewSchePoolArgs(3, 3)
 
-	intervalNs    = 10 * time.Millisecond // 10 毫秒
-	maxIdleCount  = uint(1000)
+	intervalNs    = 10 * time.Millisecond    // 10 毫秒
+	maxIdleCount  = uint(24 * 60 * 60 * 100) // 24小时
 	autoStop      = true
 	detailSummary = true
 	moitorArgs    = base.NewMonitorArgs(intervalNs, maxIdleCount,
 		autoStop, detailSummary)
 
-	crawlDepth  = uint32(10)
-	crossDomain = false
+	crawlDepth  = uint32(1) //	 crawlerDepth 0 L download page itself
+	crossDomain = true
 	spiderArgs  = base.NewSpiderArgs(crossDomain, crawlDepth)
 
 	consoleLog       = true
@@ -72,8 +72,8 @@ func main() {
 	}*/
 	// crawlerCtrlM.Start()
 
-	// secondUrl := "http://news.d.cn/pc/view-38900.html"
-	startUrl := "http://news.d.cn/evaluation.html"
+	secondUrl := "http://news.d.cn/pc/view-38900.html"
+	// startUrl := "http://news.d.cn/evaluation.html"
 
 	crawlerCtrlM.Accept(startUrl)
 

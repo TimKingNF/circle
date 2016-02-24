@@ -1,0 +1,24 @@
+2016-02-23 17:08:58 [INFO] circle/indexdevice/socket.(*mySocket).parseData.func1 : (socket.go:138) - Received request[127.0.0.1:8087]: CIRCLE|@#$%^|crawler_0-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (index device ctrlM)
+
+
+2016-02-23 17:08:58 [INFO] circle/indexdevice/socket.(*mySocket).Send : (socket.go:186) - Send Data[127.0.0.1:52913]: CIRCLE|@#$%^|indexDevice-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (indexDevice socket)
+
+
+2016-02-23 17:21:28 [INFO] circle/indexdevice/socket.(*mySocket).parseData.func1 : (socket.go:138) - Received request[127.0.0.1:8087]: CIRCLE|@#$%^|crawler_0-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (index device ctrlM)
+
+
+2016-02-23 17:21:28 [INFO] circle/indexdevice/socket.(*mySocket).Send : (socket.go:186) - Send Data[127.0.0.1:53371]: CIRCLE|@#$%^|indexDevice-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (indexDevice socket)
+
+
+2016-02-23 17:22:58 [INFO] circle/indexdevice/socket.(*mySocket).parseData.func1 : (socket.go:138) - Received request[127.0.0.1:8087]: CIRCLE|@#$%^|crawler_0-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (index device ctrlM)
+
+
+2016-02-23 17:22:58 [INFO] circle/indexdevice/socket.(*mySocket).Send : (socket.go:186) - Send Data[127.0.0.1:53467]: CIRCLE|@#$%^|indexDevice-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (indexDevice socket)
+
+
+2016-02-23 19:52:22 [INFO] circle/indexdevice/socket.(*mySocket).parseData.func1 : (socket.go:138) - Received request[127.0.0.1:8087]: CIRCLE|@#$%^|crawler_0-indexDevice|@#$%^|queryIndex|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":"http://news.d.cn/evaluation.html"} (index device ctrlM)
+
+
+2016-02-23 19:52:22 [INFO] circle/indexdevice/socket.(*mySocket).Send : (socket.go:186) - Send Data[127.0.0.1:57012]: CIRCLE|@#$%^|indexDevice-crawler_0|@#$%^|queryIndexResult|@#$%^|{"60bc485d6af446d62de1dbfc2282bb74":1} (indexDevice socket)
+
+

@@ -1,0 +1,28 @@
+2016-02-23 17:08:28 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:89) - Got Database manager listener for the divider. (local address: 127.0.0.1:8086) (database manager)
+
+
+2016-02-23 17:08:39 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:52933) (database manager)
+
+
+2016-02-23 17:09:33 [WARN] circle/divider/database.(*myDatabaseManager).handleConn : (socketParse.go:31) - Read Error: read tcp 127.0.0.1:8086->127.0.0.1:52933: wsarecv: An existing connection was forcibly closed by the remote host. (database manager)
+
+2016-02-23 17:20:47 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:89) - Got Database manager listener for the divider. (local address: 127.0.0.1:8086) (database manager)
+
+
+2016-02-23 17:20:58 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:53384) (database manager)
+
+
+2016-02-23 17:22:34 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:89) - Got Database manager listener for the divider. (local address: 127.0.0.1:8086) (database manager)
+
+
+2016-02-23 17:22:40 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:53477) (database manager)
+
+
+2016-02-23 17:23:33 [WARN] circle/divider/database.(*myDatabaseManager).handleConn : (socketParse.go:31) - Read Error: read tcp 127.0.0.1:8086->127.0.0.1:53477: wsarecv: An existing connection was forcibly closed by the remote host. (database manager)
+
+2016-02-23 19:51:25 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:89) - Got Database manager listener for the divider. (local address: 127.0.0.1:8086) (database manager)
+
+
+2016-02-23 19:51:51 [INFO] circle/divider/database.(*myDatabaseManager).Listening.func1 : (manager.go:98) - Established a connection with a client application. (remote address: 127.0.0.1:57027) (database manager)
+
+

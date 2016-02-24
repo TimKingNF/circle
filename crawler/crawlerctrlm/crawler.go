@@ -261,8 +261,8 @@ func (crawlerCtrlM *myCrawlerControlModel) running(checkCountChan <-chan uint64)
 
 func getResponseParsers() []anlz.ParseResponse {
 	parsers := []anlz.ParseResponse{
-		anlz.GenTagAttrParseResponse("a", "href"), // gen a.href
-		anlz.GenTagHtmlParseResponse("html"),      // gen html text
+		anlz.ParseForATag,    // gen a.href
+		anlz.ParseForHtmlTag, // gen html text
 	}
 	return parsers
 }
