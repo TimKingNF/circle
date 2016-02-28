@@ -39,9 +39,6 @@ type DatabaseControlModel interface {
 	//	send string to divider after dial divider
 	Send(data string)
 
-	//	API Layout Accept
-	Api(data string)
-
 	//	get runtime db args
 	DbArgs() base.DatabaseArgs
 
@@ -118,10 +115,6 @@ func (dbCtrlM *myDatabaseControlModel) Send(data string) {
 		return
 	}
 	dbCtrlM.socket.Send(data)
-}
-
-func (dbCtrlM *myDatabaseControlModel) Api(data string) {
-
 }
 
 func (dbCtrlM *myDatabaseControlModel) DbArgs() base.DatabaseArgs {

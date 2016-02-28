@@ -4,7 +4,7 @@ import (
 	api "circle/database/api"
 	base "circle/database/base"
 	dbcm "circle/database/databasectrlm"
-	diriver "circle/database/sqldiriver"
+	driver "circle/database/sqldriver"
 	"fmt"
 	"sync"
 	// "time"
@@ -63,24 +63,24 @@ func TestAPI() {
 	// apiLayout.Insert("col", &Person{"Ale", "+55 53 8402 9639"}, &Person{"Cla", "+55 53 8402 8510"})
 
 	//	remove all api
-	// apiLayout.RemoveAll("col", diriver.DataM{"name": "Cla"})
+	// apiLayout.RemoveAll("col", driver.DataM{"name": "Cla"})
 	// apiLayout.RemoveAll("col", nil)
 
 	//	remove one api
-	// apiLayout.RemoveOne("col", diriver.DataM{"name": "Ale"})
+	// apiLayout.RemoveOne("col", driver.DataM{"name": "Ale"})
 
 	//	update one api
 	/*	apiLayout.UpdateOne("col",
-		diriver.DataM{"name": "Ale"},
-		diriver.DataM{
-			"$set": diriver.DataM{"name": "Cla"},
+		driver.DataM{"name": "Ale"},
+		driver.DataM{
+			"$set": driver.DataM{"name": "Cla"},
 		})*/
 
 	//	update all api
 	/*apiLayout.UpdateAll("col",
-	diriver.DataM{"name": "Cla"},
-	diriver.DataM{
-		"$set": diriver.DataM{"addr": "广州"},
+	driver.DataM{"name": "Cla"},
+	driver.DataM{
+		"$set": driver.DataM{"addr": "广州"},
 	})*/
 
 	//	iter api
@@ -92,7 +92,7 @@ func TestAPI() {
 
 	//	select one api
 	/*person := Person{}
-	apiLayout.SelectOne("col", diriver.DataM{"name": "Ale"}, &person)
+	apiLayout.SelectOne("col", driver.DataM{"name": "Ale"}, &person)
 	fmt.Println(person)*/
 
 	//	select all api
@@ -104,7 +104,7 @@ func TestAPI() {
 }
 
 func TestSQL() {
-	conn, _ := diriver.NewSQLConn(sqlAddr, "test1")
+	conn, _ := driver.NewSQLConn(sqlAddr, "test1")
 	collection, _ := conn.Collection("col")
 
 	//	insert data
@@ -113,15 +113,15 @@ func TestSQL() {
 
 	//	update data
 	/*err := collection.UpdateAll(
-		diriver.DataM{"name": "Cla"},
-		diriver.DataM{
-			"$set": diriver.DataM{"phone": "321"},
+		driver.DataM{"name": "Cla"},
+		driver.DataM{
+			"$set": driver.DataM{"phone": "321"},
 		})
 	fmt.Println(err)*/
 
 	//	select muti data
 	/*person := Person{}
-	ret := collection.SelectAll(diriver.DataM{"name": "Cla"}, &person)
+	ret := collection.SelectAll(driver.DataM{"name": "Cla"}, &person)
 	for _, v := range ret {
 		fmt.Println(v)
 	}*/

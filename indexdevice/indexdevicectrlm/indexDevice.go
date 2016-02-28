@@ -103,9 +103,9 @@ func (indexDeviceCtrlM *myIndexDeviceControlModel) analyzePageUpdate() {
 	go func() {
 		for {
 			//	test code
-			time.Sleep(20 * time.Second)
+			// time.Sleep(20 * time.Second)
 
-			// time.Sleep(24 * time.Hour)
+			time.Sleep(24 * time.Hour)
 			for e := indexDeviceCtrlM.cardsManager.PageList().Front(); e != nil; e = e.Next() {
 				v := e.Value.(base.MyPage)
 				if v.Page.IsUpdate() {

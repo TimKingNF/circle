@@ -14,8 +14,8 @@ import (
 
 type ParseResponse func(resp base.Response) ([]base.Data, []error)
 
-//	获取超链接
-func ParseForATag(resp base.Response) ([]base.Data, []error) {
+//	获取超链接 并提取页面内容
+func ParseForHtml(resp base.Response) ([]base.Data, []error) {
 	httpResp := resp.HttpResp()
 	if httpResp.StatusCode != 200 {
 		err := errors.New(
@@ -72,32 +72,7 @@ func ParseForATag(resp base.Response) ([]base.Data, []error) {
 			}
 		}
 	})
-	return dataList, errs
-}
 
-//	获取页面的内容
-func ParseForHtmlTag(resp base.Response) ([]base.Data, []error) {
-	httpResp := resp.HttpResp()
-	if httpResp.StatusCode != 200 {
-		err := errors.New(
-			fmt.Sprintf("Unsupported status code %d. (httpResponse=%v)", httpResp))
-		return nil, []error{err}
-	}
-	var reqUrl *url.URL = httpResp.Request.URL
-	var httpRespBody io.ReadCloser = httpResp.Body
-	defer func() {
-		if httpRespBody != nil {
-			httpRespBody.Close()
-		}
-	}()
-	dataList := make([]base.Data, 0)
-	errs := make([]error, 0)
-	doc, err := goquery.NewDocumentFromReader(httpRespBody)
-	if err != nil {
-		errs = append(errs, err)
-		return dataList, errs
-	}
-	//	查找html
 	text, _ := doc.Find("html").Html()
 	text = strings.TrimSpace(text)
 	if len(text) > 0 {

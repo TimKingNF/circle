@@ -275,3 +275,15 @@ indexDevice.pageCards
 * 修改 crawler.urlCache 中的相关 bug
 * 修改 parseResponse 闭包函数无效的问题
 
+---------------------------------------------------------------------
+
+# 2016-2-26
+# 待解决问题
+* 将 Crawler.DataManager 整合到 Crawler.Middleware.channelManager 中去
+* 调整 Index Device 中 page Id 的管理方案，需要对所有的 Index Device 的 page Id 建立统一化的 ID 序列
+
+---------------------------------------------------------------------
+
+# 2016-2-28
+# 修改内容
+* 修改几项重要内容

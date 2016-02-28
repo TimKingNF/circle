@@ -75,7 +75,7 @@ func main() {
 	secondUrl := "http://news.d.cn/pc/view-38900.html"
 	// startUrl := "http://news.d.cn/evaluation.html"
 
-	crawlerCtrlM.Accept(startUrl)
+	crawlerCtrlM.Accept(secondUrl)
 
 	//	crawlerCtrlM.scheduler.start test
 	//	restart crawlerCtrlM.scheduler

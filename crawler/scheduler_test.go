@@ -11,6 +11,7 @@ import (
 	"errors"
 	"fmt"
 	"net/http"
+	"sync"
 	"time"
 )
 
@@ -21,8 +22,7 @@ func genHttpClient() *http.Client {
 
 func getResponseParsers() []anlz.ParseResponse {
 	parsers := []anlz.ParseResponse{
-		anlz.GenTagHtmlParseResponse("html"),
-		anlz.GenTagAttrParseResponse("a", "href"),
+		anlz.ParseForHtml,
 	}
 	return parsers
 }
@@ -58,7 +58,7 @@ func main() {
 		itemProcessors,
 	)
 
-	startUrl := "http://127.0.0.1:8080"
+	startUrl := "http://news.d.cn/pc/view-38900.html"
 	firstHttpReq, err := http.NewRequest("GET", startUrl, nil)
 	pd, err := cmn.GetPrimaryDomain(startUrl)
 	if err != nil {
@@ -69,6 +69,10 @@ func main() {
 	scheduler.Accept(*firstReq)
 
 	<-checkCountChan
+
+	var waitgroup sync.WaitGroup
+	waitgroup.Add(1)
+	waitgroup.Wait()
 }
 
 func processItem(item base.Item) (result base.Item, err error) {

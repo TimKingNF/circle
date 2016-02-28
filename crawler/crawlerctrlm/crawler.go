@@ -43,7 +43,7 @@ type CrawlerControlModel interface {
 	//	gen local computer info
 	OsInfo() string
 
-	//	gen crawler som args of running
+	//	gen crawler some args of running
 	//	eg: log, monitor, channel, pool, spider, divider addr
 	CrawlerArgs() base.CrawlerArgs
 
@@ -163,6 +163,9 @@ func (crawlerCtrlM *myCrawlerControlModel) Accept(url string) {
 	if !cmn.IsUrl(url) {
 		return
 	}
+	if running := atomic.LoadUint32(&crawlerCtrlM.status); running == CRAWLER_CONTROL_MODEL_UNSTART {
+		return
+	}
 
 	for {
 		if running := atomic.LoadUint32(&crawlerCtrlM.status); running == CRAWLER_CONTROL_MODEL_STOPED {
@@ -174,8 +177,8 @@ func (crawlerCtrlM *myCrawlerControlModel) Accept(url string) {
 			crawlerCtrlM.scheduler.Snap("The scheduler restart !\n")
 			//	restart
 			go crawlerCtrlM.Start()
-		} else if running == CRAWLER_CONTROL_MODEL_UNSTART {
-			return
+		} else if running == CRAWLER_CONTROL_MODEL_INITIALIZED {
+			go crawlerCtrlM.Start()
 		} else {
 			break
 		}
@@ -261,8 +264,7 @@ func (crawlerCtrlM *myCrawlerControlModel) running(checkCountChan <-chan uint64)
 
 func getResponseParsers() []anlz.ParseResponse {
 	parsers := []anlz.ParseResponse{
-		anlz.ParseForATag,    // gen a.href
-		anlz.ParseForHtmlTag, // gen html text
+		anlz.ParseForHtml,
 	}
 	return parsers
 }

@@ -17,6 +17,7 @@ import (
 	"fmt"
 	"net/http"
 	"strings"
+	"sync"
 	"sync/atomic"
 	"time"
 )
@@ -106,7 +107,9 @@ type myScheduler struct {
 	urlCache            uc.UrlCache
 	logger              logging.Logger
 	dataManager         dm.DataManager
-	urlMap              map[string]bool
+	urlMap              map[string]time.Time
+	wmutex              sync.Mutex
+	rmutex              sync.Mutex
 
 	// new interface {add rule}
 	respParsers    []anlz.ParseResponse
@@ -322,7 +325,7 @@ func (sched *myScheduler) Start(
 
 	sched.reqCache = rc.GenRequestCache()
 	sched.urlCache = uc.GenUrlCache()
-	sched.urlMap = make(map[string]bool)
+	sched.urlMap = make(map[string]time.Time)
 	sched.dataManager = dm.GenDataManager()
 	sched.respParsers = respParsers
 
@@ -501,9 +504,11 @@ func (sched *myScheduler) saveReqToCache(req base.Request, code string) {
 				reqUrl.Scheme)
 			return
 		}
-		if _, ok := sched.urlMap[reqUrl.String()]; ok {
-			sched.logger.Warnf("Ignore the request! It's url is repeated. (requestUrl=%s)\n", reqUrl)
-			return
+		if v, ok := sched.urlMap[reqUrl.String()]; ok {
+			if time.Now().Sub(v) < 3*24*time.Hour {
+				sched.logger.Warnf("Ignore the request! It's url is repeated. (requestUrl=%s)\n", reqUrl)
+				return
+			}
 		}
 		if !sched.spiderArgs.CrossDomain() {
 			if pd, _ := getPrimaryDomain(httpReq.URL.String()); pd != req.PrimaryDomain() {
@@ -528,11 +533,22 @@ func (sched *myScheduler) saveReqToCache(req base.Request, code string) {
 			sched.stopSign.Deal(code)
 			return
 		}
-		ok := sched.reqCache.Put(&req)
-		if !ok {
-			return
+		sched.rmutex.Lock()
+		//	保证url Map 的并发写入安全 很多时候可能存在同一个url的写入
+		if _, present := sched.urlMap[reqUrl.String()]; !present {
+			sched.wmutex.Lock()
+			if _, present = sched.urlMap[reqUrl.String()]; !present {
+				sched.urlMap[reqUrl.String()] = time.Now()
+				ok := sched.reqCache.Put(&req)
+				if !ok {
+					return
+				}
+			}
+			sched.wmutex.Unlock() // unlock the mutex
+			sched.rmutex.Unlock()
+		} else {
+			sched.rmutex.Unlock()
 		}
-		sched.urlMap[reqUrl.String()] = true
 		return
 	}()
 }

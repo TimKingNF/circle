@@ -5,11 +5,6 @@ import (
 	"encoding/json"
 )
 
-type myKeyword struct {
-	Keyword string
-	times   uint
-}
-
 type PageCards interface {
 	Keyword() string
 

@@ -35,9 +35,9 @@ func genLogger() logging.Logger {
 type ItemPipeline interface {
 	Send(item base.Item) []error // 发送条目
 
-	FailFast() bool // 判断是否有某一步骤失败
+	FailFast() bool // 判断是否快速失败
 
-	SetFailFast(failFast bool) // 设置是否失败
+	SetFailFast(failFast bool) // 设置是否快速失败
 
 	Count() []uint64 // 获得已发送、已接受和已处理的条目的计数值
 
@@ -116,7 +116,7 @@ func (ip *myItemPipeline) Send(item base.Item) []error {
 			errs = append(errs, err)
 		}
 		genLogger().Infoln("processed[item]:\n", string(currentItemJson))
-		fmt.Println("processed page: ", currentItem["title"])
+		fmt.Println("processed page: ", currentItem["parent_url"])
 
 		ip.parseData(currentItem, string(currentItemJson))
 	}

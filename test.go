@@ -4,21 +4,17 @@ import (
 	cmn "circle/common"
 	// cwlcm "circle/crawler/crawlerctrlm"
 	"fmt"
-	"net/url"
 	"time"
 )
 
 func main() {
-	fmt.Println(cmn.CrawlerStruct())
+	// fmt.Println(cmn.CrawlerStruct())
+	fmt.Println(cmn.CircleCondition())
 
 	// crawlerCtrlM := cwlcm.GenCrawlerControlModel()
 	// fmt.Println(crawlerCtrlM.OsInfo())
 
-	// test()
-	r := "http://baidu.com"
-	urls, _ := url.Parse("http://baidu.com")
-	fmt.Println(urls.Host)
-	fmt.Println(cmn.GetPrimaryDomain(r))
+	test()
 }
 
 func test() {
